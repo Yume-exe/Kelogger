@@ -36,13 +36,13 @@
      ix. I was all finished with my keylogger by that point. I made some quality of life changes here and there but they're not worthy of mention (like function and 
             variable name changes, etc). This project was only made to test my skills and get further knowledge in the field of cybersecurity. NOT FOR ANY MALICIOUS USE.
 
-   4. How to use:
-        i. keylogger.py is the main code you can use to create the keylogger in any device, all you have to do is connect your telegram bot token and its chat id by a .key               file.
+4. How to use:
+     i. keylogger.py is the main code you can use to create the keylogger in any device, all you have to do is connect your telegram bot token and its chat id by a .key               file.
 
-        ii. stopper.py is a code I created to find if any kind of keylogger using some common libraries are running (like pypnut, cryptography, etc)
+     ii. stopper.py is a code I created to find if any kind of keylogger using some common libraries are running (like pypnut, cryptography, etc)
 
-        iii. FILES THAT NEED TO BE CREATED: "telegram.key" just copy paste telegram bot token here without any alteration and "chatid.key" copy paste the chatid you'd find 
+    iii. FILES THAT NEED TO BE CREATED: "telegram.key" just copy paste telegram bot token here without any alteration and "chatid.key" copy paste the chatid you'd find 
         when you text the bot.
 
-      Thank You for reading through my decription of the project. I made to hone my own skills and not for any malicious purpose.
+Thank You for reading through my decription of the project. I made to hone my own skills and not for any malicious purpose.
 
