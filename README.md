@@ -44,5 +44,5 @@
     iii. FILES THAT NEED TO BE CREATED: "telegram.key" just copy paste telegram bot token here without any alteration and "chatid.key" copy paste the chatid you'd find 
         when you text the bot.
 
-Thank You for reading through my decription of the project. I made to hone my own skills and not for any malicious purpose.
+Thank You for reading through my decription of the project.
 
