@@ -2,7 +2,7 @@
                                                           (For educational purposes only)
 
 1. What is a keylogger?
-- A computer program that records every keystroke made by a computer user, especially in order to gain fraudulent access to passwords and other confidential information. (google)
+- A computer program that records every keystroke made by a computer user, especially in order to gain fraudulent access to passwords and other confidential information. 
 
 2. What is the use of a keylogger in cybersecurity?
 - Keyloggers in cybersecurity are used for ethical purposes like penetration testing, monitoring insider threats, and investigating breaches. They help detect data theft, improve security awareness, and monitor remote workers.
